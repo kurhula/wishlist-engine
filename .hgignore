@@ -1,0 +1,15 @@
+# OS cruft
+\.DS_Store$
+
+# Compiled files
+\.py[cod]$
+
+# Cached files
+\.db$
+\.sqlite$
+\.log$
+(^|/)\.(web)?cache/
+
+# Sublime Project Settings
+\.sublime-project$
+\.sublime-workspace$
