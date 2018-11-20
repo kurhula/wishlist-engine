@@ -1,0 +1,13 @@
+# HTTP Access
+requests>=2.2,<2.3
+cachecontrol>=0.10,<1.0     # to add caching support to requests
+lockfile>=0.9,<1.0          # to enable file based caching via cachecontrol
+
+# Scrapers
+opengraph>=0.5,<0.6
+microdata>=0.4,<0.5
+python-amazon-simple-product-api>=1.5,<2.0
+lxml>=3,<4.0
+
+# Testing
+mock>=1.0,<2.0
